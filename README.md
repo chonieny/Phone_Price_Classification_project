@@ -32,7 +32,8 @@ This project aims to build an optimal machine learning model to predict a phone'
 * Skewed features underwent log transformation 
 * Heavily correlated features were handled: 
 * There were no missing or duplicated values 
-* Outcome classes were balanced 
+* One-hot encoding was done for the categorical variables 
+* Data had balanced outcome classes  
 
 
 ### Fit Machine Learning Models & Compare their Performances 
