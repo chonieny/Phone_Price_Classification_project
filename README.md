@@ -16,16 +16,16 @@ In the context of the competitive mobile phone market, knowing the associations 
   - Packages : numpy, pandas, matplotlib, seaborn, sklearn
   
 ### Exploratory Data Analysis 
-* The distribution of each numerical feature was checked as well<br/>
+* The distribution of each numerical feature was checked<br/>
 (includes a plot that was stratified by the outcome feature and a plot that was not stratified)<br/>
-&#8594; Battery power, pixel resolution width, and ram each seems to have a clear association with phone price range
+&#8594; Battery power, pixel resolution width, and ram each seemed to have a clear association with phone price range
 
 <img src = "viz1.png" style = "width: 30%"> <img src = "viz2.png" style = "width: 30%"> <img src = "viz3.png" style = "width: 30%">
 
 * Battery power, pixel resolution width, and ram indeed showed the strongest correlation coefficients with phone price range 
-* The counts of each categorical feature were checked<br/>
+* The counts of each categorical feature were checked as well<br/>
 (includes a plot that was stratified by the outcome feature and a plot that was not stratified)<br/> 
-&#8594; It can be seen that among the phones that have either bluetooth, dual sim, 4G, or wifi, the phones in the highest price range are the most common
+&#8594; It could be seen that among the phones that have either bluetooth, dual sim, 4G, or wifi, the phones in the highest price range are the most common
 
 
 ### Data Cleaning & Feature Engineering
