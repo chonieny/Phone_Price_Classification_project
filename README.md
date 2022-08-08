@@ -23,6 +23,8 @@ This project aims to build an optimal machine learning model to predict a phone'
 (includes a plot that was stratified by the outcome feature and a plot that was not stratified)<br/>
 &#8594; Battery power, pixel resolution width, and ram each seems to have a clear association with phone price range
 
+<img src = "viz1.png" style = "width: 45%"> <img src = "viz2.png" style = "width: 45%">
+
 * Battery power, pixel resolution width, and ram indeed showed the strongest correlations with phone price range 
 
 ### Data Cleaning & Feature Engineering
