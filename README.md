@@ -39,7 +39,7 @@ In the context of the competitive mobile phone market, knowing the associations 
 
 ### Fit Machine Learning Models & Compare their Performances 
 * The data were split into train and test sets with a test size of 20%
-* Four models(KNN, SVM, Naive Bayes, Random Forest) were trained with default parameters 
+* Four models (KNN, SVM, Naive Bayes, Random Forest) were trained with default parameters 
 * Each model's accuracy was compared: Random Forest and SVM showed the highest accuracies 
 
 ### Hyperparameter Tuning for Final Machine Learning Model 
