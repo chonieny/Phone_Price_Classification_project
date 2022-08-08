@@ -25,7 +25,7 @@ This project aims to build an optimal machine learning model to predict a phone'
 
 <img src = "viz1.png" style = "width: 30%"> <img src = "viz2.png" style = "width: 30%"> <img src = "viz3.png" style = "width: 30%">
 
-* Battery power, pixel resolution width, and ram indeed showed the strongest correlations with phone price range 
+* Battery power, pixel resolution width, and ram indeed showed the strongest correlation coefficients with phone price range 
 
 ### Data Cleaning & Feature Engineering
 
