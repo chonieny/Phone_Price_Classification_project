@@ -28,6 +28,12 @@ This project aims to build an optimal machine learning model to predict a phone'
 * Battery power, pixel resolution width, and ram indeed showed the strongest correlation coefficients with phone price range 
 
 ### Data Cleaning & Feature Engineering
+* Data were scaled 
+* Skewed features underwent log transformation 
+* Heavily correlated features were handled: 
+* There were no missing or duplicated values 
+* Outcome classes were balanced 
+
 
 ### Fit Machine Learning Models & Compare their Performances 
 
