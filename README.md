@@ -37,6 +37,11 @@ This project aims to build an optimal machine learning model to predict a phone'
 
 
 ### Fit Machine Learning Models & Compare their Performances 
+* The data were split into train and test sets with a test size of 20%
+* Four models(KNN, SVM, Naive Bayes, Random Forest) were trained with default parameters 
+* Each model's accuracy was compared: Random Forest and SVM showed the highest accuracies 
 
 ### Hyperparameter Tuning for Final Machine Learning Model 
-
+* The hyperparameters of Random Forest and SVM were tuned, which increased both models' accuracies
+* SVM was selected as the final model because its accuracy was higher
+* The accuracy, precision, and recall of the final model were checked with test data (accuracy = 0.91) 
