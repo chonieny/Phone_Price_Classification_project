@@ -1,7 +1,7 @@
 # Phone Price Predictor: Project Overview 
 * Objective<br/>
 This project aims to build an optimal classification machine learning model to predict a phone's price range given the phone's features. 
-In the context of the competitive mobile phone market, knowing the associations between phone features and the phone's selling price, and being able to accurately predict the phones' selling prices are beneficial.  
+In the context of the competitive mobile phone market, knowing the associations between the features of a phone and its selling price, and being able to accurately predict the phones' selling prices are beneficial.  
 
 * Walkthrough
   - Define the question and collect the data
