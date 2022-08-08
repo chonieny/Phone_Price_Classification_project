@@ -45,4 +45,4 @@ This project aims to build an optimal machine learning model to predict a phone'
 * The hyperparameters of Random Forest and SVM were tuned, which increased both models' accuracies
 * SVM was selected as the final model because its accuracy was higher
 * The accuracy, precision, and recall of the final model were checked with test data (accuracy = 0.91) 
-<img src = "viz5.png" style = "width: 40%" title = "confusion matrix"> <img src = "viz4.png" style = "width: 50%">
+<img src = "viz5.png" style = "width: 30%" title = "confusion matrix"> <img src = "viz4.png" style = "width: 50%">
