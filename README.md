@@ -10,7 +10,7 @@ This project aims to build an optimal machine learning model to predict a phone'
   - Hyperparameter Tuning for Final Machine Learning Model
 
 * Data & Coding Language Used 
-  - Data: 
+  - Data: Data collected from various mobile phone companies 
   - Python Version: 3.9
   - Packages : numpy, pandas, matplotlib, seaborn, sklearn
   
