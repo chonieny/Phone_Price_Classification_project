@@ -1,5 +1,5 @@
 # Phone Price Predictor: Project Overview 
-* Objective
+* Objective<br/>
 This project aims to build an optimal machine learning model to predict a phone's price range given the phone's features. 
 
 * Walkthrough
