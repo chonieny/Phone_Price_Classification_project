@@ -30,7 +30,7 @@ This project aims to build an optimal machine learning model to predict a phone'
 ### Data Cleaning & Feature Engineering
 * Data were scaled 
 * Skewed features underwent log transformation 
-* Heavily correlated features were handled: 
+* Heavily correlated features were handled: features that were very redundant and less important were dropped
 * There were no missing or duplicated values 
 * One-hot encoding was done for the categorical variables 
 * Data had balanced outcome classes  
