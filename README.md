@@ -24,7 +24,7 @@ In the context of the competitive mobile phone market, knowing the associations 
 
 * Battery power, pixel resolution width, and ram indeed showed the strongest correlation coefficients with phone price range 
 * The counts of each categorical feature were checked as well<br/>
-(includes a plot that was stratified by the outcome variable and a plot that was not stratified)<br/> 
+(includes a plot that was stratified by the outcome variable and a plot that was not stratified) <br/> 
 &#8594; It could be seen that among the phones that have either bluetooth, dual sim, 4G, or wifi, the phones in the highest price range are the most common
 
 
