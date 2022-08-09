@@ -1,16 +1,16 @@
 # Phone Price Predictor: Project Overview 
-* Objective<br/>
+* **Objective**<br/>
 This project aims to build an optimal classification machine learning model to predict a phone's price range given the phone's features. 
 In the context of the competitive mobile phone market, knowing the associations between the features of a phone and its selling price, and being able to accurately predict the phones' selling prices are beneficial.  
 
-* Walkthrough
+* **Walkthrough**
   - Define the question and collect the data
   - Exploratory Data Analysis
   - Data Cleaning 
   - Fit Machine Learning Models & Compare their performances 
   - Hyperparameter Tuning for Final Machine Learning Model
 
-* Data & Coding Language Used 
+* **Data & Coding Language Used** 
   - Data: collected from various mobile phone companies 
   - Python Version: 3.9
   - Packages : numpy, pandas, matplotlib, seaborn, sklearn
