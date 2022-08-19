@@ -16,7 +16,7 @@ In the context of the competitive mobile phone market, knowing the associations 
   - Packages : numpy, pandas, matplotlib, seaborn, sklearn
   
 ### Exploratory Data Analysis 
-* The distribution of each numerical feature was checked<br/>
+* The distribution of each numerical feature was checked <br/>
 (includes a plot that was stratified by the outcome variable and a plot that was not stratified)<br/>
 &#8594; Battery power, pixel resolution width, and ram each seemed to have a clear association with phone price range
 
